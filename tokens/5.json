@@ -1,0 +1,23 @@
+{
+  "name": "PointBlank Token #4",
+  "description": "Recognition for exceptional contribution to PointBlank tech club",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
+  "attributes": [
+    {
+      "trait_type": "Recipient",
+      "value": "Bro"
+    },
+    {
+      "trait_type": "Category",
+      "value": "test6"
+    },
+    {
+      "trait_type": "Achievement", 
+      "value": "test6"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": "5"
+    }
+  ]
+}
