@@ -1,0 +1,23 @@
+{
+  "name": "PointBlank Token #8",
+  "description": "I drink and know things",
+  "image": "https://www.dixitaditya.com/assets/img/rick.png",
+  "attributes": [
+    {
+      "trait_type": "Recipient",
+      "value": "Bro"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Drinker"
+    },
+    {
+      "trait_type": "Achievement", 
+      "value": "12 beers"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": "8"
+    }
+  ]
+}
