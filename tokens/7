@@ -1,0 +1,23 @@
+{
+  "name": "PointBlank Token #7",
+  "description": "Recognition for exceptional contribution to PointBlank",
+  "image": "https://www.pointblank.club/_next/static/media/logo.8d55ed6e.svg",
+  "attributes": [
+    {
+      "trait_type": "Recipient",
+      "value": "Bro"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Maker"
+    },
+    {
+      "trait_type": "Achievement", 
+      "value": "Made this"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": "7"
+    }
+  ]
+}
