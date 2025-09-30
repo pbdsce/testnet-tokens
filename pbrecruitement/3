@@ -1,0 +1,11 @@
+{
+  "name": "Rick n Roll",
+  "description": "I drink and I know things",
+  "image": "https://www.dixitaditya.com/assets/img/rick.png",
+  "attributes": [
+    {
+      "trait_type": "Token ID",
+      "value": "3"
+    }
+  ]
+}
